@@ -39,9 +39,8 @@ header h1 {
 
 header p {
     padding-bottom: 50px;
-    
-}
 
+}
 
 a {
     color: white;
@@ -66,29 +65,34 @@ section {
 section.normal {
     background-color: white;
     color: black;
-    box-shadow:  10px 10px 17px 5px rgb(0 0 0 / 59%);
-    
+    box-shadow: 10px 10px 17px 5px rgb(0 0 0 / 59%);
+
 }
 
 section.imagem {
     background-color: rgba(54, 53, 53, 0.603);
     color: white;
     box-shadow: inset 6px 6px 20px 5px rgba(0, 0, 0, 0.493);
-    background-position: right center;   
-    background-attachment: fixed;
+    background-position: right center;
     background-size: cover;
+    background-attachment: fixed;
 
 }
-section p{
+
+section p {
     padding-bottom: 2em;
 }
 
 #flowerbackground {
     background-image: url(../imagens/background001.jpg);
+
+    
 }
 
 #listbackground {
     background-image: url(../imagens/background002.jpg);
+
+    
 }
 
 section.imagem p {
@@ -97,7 +101,7 @@ section.imagem p {
     padding: 5px;
     text-shadow: 2px 1px 0px black;
     box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.52);
-    
+
 }
 
 
